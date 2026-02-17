@@ -7,4 +7,5 @@ Além disso, importar as seguintes bibliotecas:
     import streamlit as st
     from chat_openAI import modelo, mensagens
 
-    A biblioteca chat_openAI é o segundo arquivo que contem a chamada para o modelo e a configuração do tipo de agente e o que ele faz. 
+    A biblioteca chat_openAI é o segundo arquivo que contem a chamada para o modelo e a configuração do tipo de agente e o que ele faz.
+    A linguagem é Python 3.14 e a IDE VSCode
